@@ -10,3 +10,5 @@ Text Domain: doctrine-wordpress-plugin
 Domain Path: /languages
 */
 
+require 'vendor/autoload.php';
+
