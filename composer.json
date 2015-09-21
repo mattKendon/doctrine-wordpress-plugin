@@ -1,0 +1,21 @@
+{
+  "name": "mattkendon/doctrine-wordpress-plugin",
+  "description": "A plugin to use doctrine 2 ORM with WordPress",
+  "type": "wordpress-plugin",
+  "require": {
+    "doctrine/orm": "2.5.1",
+    "wp-cli/wp-cli": "v0.20.1",
+    "johnpbloch/wordpress": "4.3.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.8.9",
+    "10up/wp_mock": "0.1.1"
+  },
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Matthew Kendon",
+      "email": "mkendon@gmail.com"
+    }
+  ]
+}
